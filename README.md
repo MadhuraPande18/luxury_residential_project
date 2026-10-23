@@ -95,19 +95,6 @@ The Playwright suite runs against the exact build that gets deployed and checks:
 
 ---
 
-## Screenshots
-
-| Home | Enquiry pop-up |
-|---|---|
-| ![Home](screenshots/website-1-home.jpg) | ![Pop-up](screenshots/website-2-enquiry-popup.jpg) |
-
-| Gallery | Masterplan |
-|---|---|
-| ![Gallery](screenshots/website-3-gallery.jpg) | ![Masterplan](screenshots/website-4-masterplan.jpg) |
-
-![Mobile](screenshots/website-7-mobile.jpg)
-
----
 
 ## Author
 
